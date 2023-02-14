@@ -46,3 +46,7 @@
         Console.WriteLine();
     }
     PrintArray(array2); 
+
+Ниже представлен файл с блок схемой данного задания.
+
+![](Block.jpg)
